@@ -1,5 +1,7 @@
+## 
+- [Python in high school - volume 1](https://exo7math.github.io/python1-en-exo7/)  [GITHUB](https://github.com/exo7math/python1-en-exo7)
 
-##
+## 解數學與物理問題
 - [程序員數學 用Python學透線性代數和微積分 Math for Programmers: 3D graphics, machine learning, and simulations with Python(Paul Orland,2021-12-01)]()
 - [Doing Math with Python](https://nostarch.com/doingmathwithpython)  [簡中版](https://www.tenlong.com.tw/products/9787115522719)[GITHUB](https://github.com/doingmathwithpython/code)
 ```
