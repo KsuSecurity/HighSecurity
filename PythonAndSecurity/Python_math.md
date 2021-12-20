@@ -11,3 +11,5 @@ Chapter 5: Playing with Sets and Probability
 Chapter 6: Drawing Geometric Shapes and Fractals
 Chapter 7: Solving Calculus Problems
 ```
+- [免費的好書Think Stats:Probability and Statistics for Programmers 2e](https://greenteapress.com/wp/think-stats-2e/) [第一版](https://greenteapress.com/thinkstats/)[GITHUB](https://github.com/AllenDowney/ThinkStats2)
+- [Computational Physics:Mark Newman](http://www-personal.umich.edu/~mejn/computational-physics/) [程式碼下載](http://websites.umich.edu/~mejn/cp/programs.html)
