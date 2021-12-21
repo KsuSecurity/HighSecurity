@@ -22,6 +22,8 @@
 
 ## [104資安職缺](https://www.104.com.tw/jobs/search/?ro=0&kwop=7&keyword=%E8%B3%87%E5%AE%89&expansionType=area%2Cspec%2Ccom%2Cjob%2Cwf%2Cwktm&order=12&asc=0&page=2&mode=s&jobsource=2018indexpoc&langFlag=0&langStatus=0)
 
-## 資訊安全學習地圖
+## 到 *資安聖殿|崑山之巔* 學資安神技 ==> 資訊安全學習地圖
+
+- 全國唯一每學期都有不同資安課程 
 
 ![map.png](map.png)
