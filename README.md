@@ -2,9 +2,18 @@
 
 本網站是由Mydeargreatteacher維護
 
-## 打CTF學資安 >> 蓋高尚 !有水準 ! High class!
 
-## 學資安就要考資安專業證照
+## Mydeargreatteacher == 我親愛的偉大恩師 龍大大
+
+## 學資安 ==> 很貴的
+
+- [HITCON Training 2021](https://hitcon.kktix.cc/events/hitcon-training-2021)
+- [BlackHat Training](https://www.blackhat.com/tr-22/training/schedule/index.html)
+
+
+## 打CTF 學資安 >> 蓋高尚 !有水準 ! High class!
+
+## 學資安 就要考資安專業證照
 - [IPAS|資訊安全工程師---入門級|讓你建立信心用](https://www.ipas.org.tw/?AspxAutoDetectCookieSupport=1)
 - [CISSP|CISSP資安系統專家](https://www.uuu.com.tw/Course/Show/47/CISSP-%E8%B3%87%E5%AE%89%E7%B3%BB%E7%B5%B1%E5%B0%88%E5%AE%B6%E8%AA%8D%E8%AD%89%E8%AA%B2%E7%A8%8B)
 - [CEH|EC-Council CEH駭客技術專家](https://www.uuu.com.tw/Course/Show/300/EC-Council-CEH-%E9%A7%AD%E5%AE%A2%E6%8A%80%E8%A1%93%E5%B0%88%E5%AE%B6%E8%AA%8D%E8%AD%89%E8%AA%B2%E7%A8%8B)
