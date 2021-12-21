@@ -35,6 +35,13 @@ linux是當今開放原始碼的典範，也是資訊工程重要的基礎，
  上課期間講師會公布網址
 2.本課程提供上課用linux image, 學生可以事先來信索取
 ```
+
+## 後續作業
+
+- 完成[tryhackme:Linux Fundamentals](https://tryhackme.com/module/linux-fundamentals)
+- 完成[OverTheWire:Bandit](https://overthewire.org/wargames/bandit/)
+
+
 # 上課須知
 ```
 本課程將依上課學生的學生狀況,動態調整上課的內容深淺
